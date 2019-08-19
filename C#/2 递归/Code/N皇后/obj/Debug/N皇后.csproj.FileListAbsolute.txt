@@ -1,0 +1,6 @@
+D:\MyProgram\PersonWeb\The-Design-and-Analysis-of-Computer-Algorithms\C#\2 递归\Code\N皇后\bin\Debug\N皇后.exe
+D:\MyProgram\PersonWeb\The-Design-and-Analysis-of-Computer-Algorithms\C#\2 递归\Code\N皇后\bin\Debug\N皇后.pdb
+D:\MyProgram\PersonWeb\The-Design-and-Analysis-of-Computer-Algorithms\C#\2 递归\Code\N皇后\obj\Debug\N皇后.csprojAssemblyReference.cache
+D:\MyProgram\PersonWeb\The-Design-and-Analysis-of-Computer-Algorithms\C#\2 递归\Code\N皇后\obj\Debug\N皇后.csproj.CoreCompileInputs.cache
+D:\MyProgram\PersonWeb\The-Design-and-Analysis-of-Computer-Algorithms\C#\2 递归\Code\N皇后\obj\Debug\N皇后.exe
+D:\MyProgram\PersonWeb\The-Design-and-Analysis-of-Computer-Algorithms\C#\2 递归\Code\N皇后\obj\Debug\N皇后.pdb
